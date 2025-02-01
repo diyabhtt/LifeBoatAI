@@ -1,2 +1,3 @@
 #test
 #hi
+print("Hello");
